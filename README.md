@@ -2,12 +2,12 @@
 
 Picture it: a New York coffee titan poised for national takeover, but their data? Scattered like grounds across disconnected silos. Enter you, the data alchemist, tasked with crafting a relational database alchemy: a unified system to streamline operations and fuel data-driven decisions.
 
-**The Grind:**
+## The Grind:
 
 Data scattered across accounting software, suppliers’ databases, POS systems, and spreadsheets – a recipe for chaos.
 Inefficient operations and limited insights hindering franchise expansion.
 
-**Masterblend:**
+## Masterblend:
 
 - Extraction and Identification: I meticulously combed through each data source, unearthing essential entities and their defining attributes. Imagine beans transformed into perfectly roasted data elements!
 - Relationship Roadmap: Using the pgAdmin ERD Tool, I mapped out the connections between entities, crafting a visual blueprint – the coffee shop's very own data DNA.
@@ -16,7 +16,7 @@ Inefficient operations and limited insights hindering franchise expansion.
 - SQL Queries: From the ERD, SQL scripts emerged, shaping the database objects themselves. Lines of code blossoming into the robust infrastructure of the data haven.
 - Views and Beyond: I carved custom data perspectives: views for quick glances and materialized views for deeper analysis. Think espresso shots and pour-overs of information!
 
-**The Sweet Result:**
+## The Sweet Result:
 
 - A unified, centralized database – the heart of a streamlined operation.
 - Data-driven insights at executives' fingertips, fueling expansion and strategic decisions.
