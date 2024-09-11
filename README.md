@@ -1,4 +1,4 @@
-**# Designing a Data Oasis for a Coffee Empire**
+# Designing a Data Oasis for a Coffee Empire
 
 Picture it: a New York coffee titan poised for national takeover, but their data? Scattered like grounds across disconnected silos. Enter you, the data alchemist, tasked with crafting a relational database alchemy: a unified system to streamline operations and fuel data-driven decisions.
 
